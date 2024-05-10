@@ -1,0 +1,37 @@
+.header{
+    min-height: 300px;
+    background-color: green;
+}
+.main{
+    min-height: 800px;
+    display: flex;
+    
+}
+.left_content{
+    width: 50%;
+    min-height: 800px;
+}
+.right_content{
+    width: 50%;
+    min-height: 800px;
+}
+.left_top_item{
+    min-height: 75%;
+    background-color: bisque;   
+}
+.left_bot_item{
+    min-height: 25%;
+    background-color: aquamarine;
+}
+.right_top_item{
+    min-height: 25%;
+    background-color: blueviolet;
+}
+.right_mid_item{
+    min-height: 25%;
+    background-color: rgb(56, 134, 144);
+}
+.right_bot_item{
+    min-height: 50%%;
+    background-color: rgb(56, 134, 0);
+}

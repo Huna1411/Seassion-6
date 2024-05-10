@@ -1,0 +1,22 @@
+.main{
+    min-height: 900px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.item1{
+    min-width: 300px;
+    background-color: red;
+}
+.item2{
+    min-width: 300px;
+    background-color: rgb(180, 107, 228);
+}
+.item3{
+    min-width: 300px;
+    background-color: rgb(90, 175, 34);
+}
+.item4{
+    min-width: 300px;
+    background-color: rgb(57, 190, 145);
+}
